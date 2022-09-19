@@ -22,8 +22,8 @@
   <a href="COLOCAR O LINK DO INSTA" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="BOTAR O LINK DO DISCORD"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "BOTAR O GMAIL (PROFISSIONAL)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="BOTAR O TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a> 
-  <a href="BOTAR O REGGIDIT" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> 
+  <a href="https://twitter.com/deludednpc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a> 
+  <a href="https://www.reddit.com/user/deludeded" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> 
   </div>
 
 ![snake gif](https://github.com/deludeded/deludeded/blob/output/github-contribution-grid-snake.svg)
