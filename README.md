@@ -1,6 +1,5 @@
 - 👯 estou estudando: HTML, css e javascript
-- 😄 Pronouns: ele/dele
-- 👯 pretendo aprender: python
+- 👯 pretendo aprender também: python
 
 <div align="center">
   <a href="https://github.com/deludeded">
